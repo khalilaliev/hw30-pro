@@ -1,0 +1,25 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+.smile-container {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.smile {
+  cursor: pointer;
+}
+.smiles {
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  gap: 60px;
+  text-align: center;
+}
+.smile-box {
+  display: flex;
+  flex-direction: column;
+}
